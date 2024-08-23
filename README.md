@@ -1,5 +1,5 @@
 # Better Recs Backend
-This is the Laravel backend api for the Better Recs project. It handles user authentication and storing user albums.
+This is the Laravel backend api for the [Better Recs project](https://github.com/Evan-Proulx/Better-Recs). It handles user authentication and storing user albums.
 
 ## Requirements
 - **PHP** >= 8.2
